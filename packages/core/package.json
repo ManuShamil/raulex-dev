@@ -3,7 +3,9 @@
     "main": "src/index.ts",
     "private": true,
     "dependencies": {
+        "dotenv": "^16.3.1",
         "jest": "^29.7.0",
+        "openai": "^4.24.0",
         "typescript": "latest"
     },
     "scripts": {
